@@ -1,0 +1,43 @@
+.learn-more{
+    /* font-family: "Azeret Mono", sans-serif;
+    font-size: 20px;
+    font-weight: 600px;
+    color: #0D1321;
+    margin: 25px;
+    padding: 10px;
+    border: 2px ; */
+    font-family: "Azeret Mono", sans-serif;
+    font-size: 20px;
+    font-weight: 600px;
+    color: #0D1321;
+    margin: 10px;
+    padding: 7px;
+    /* border: 2px; */
+    height: 24;
+    width: 110;
+}
+
+.details{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 32px;
+}
+
+.details-header{
+    font-family: "Azeret Mono", sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.details-info{
+    margin-bottom: 32px;
+    font-family: "Azeret Mono", sans-serif;
+    font-size: 16px;
+}
+
+.icon-size{
+    
+}
